@@ -1,5 +1,6 @@
 # Credit Card Weekly Status Dashboard (Power BI)
 
+
 Author: Shivani Bhatt
 
 ---
@@ -9,6 +10,7 @@ This project is an end-to-end Power BI solution developed to analyze credit card
 
 ---
 
+
 ## Objective
 - Analyze customer segmentation and behavior
 - Track transaction performance
@@ -16,6 +18,7 @@ This project is an end-to-end Power BI solution developed to analyze credit card
 - Generate actionable business insights
 
 ---
+
 
 ## Data Source
 Two CSV datasets were used:
@@ -26,6 +29,7 @@ Relationship:
 Customer[Client_Num] → CreditCard[Client_Num]
 
 ---
+
 
 ## Implementation Steps
 
@@ -53,9 +57,11 @@ Current_Week_Revenue = CALCULATE(SUM(Total_Revenue), FILTER(ALL(CreditCard), Wee
 Previous_Week_Revenue = CALCULATE(SUM(Total_Revenue), FILTER(ALL(CreditCard), Week_Num_2 = MAX(Week_Num_2)-1))  
 WOW_Revenue = DIVIDE((Current - Previous), Previous)
 
+
 ### Customer Segmentation
 Age_Group → Based on Customer_Age  
 Income_Group → Low, Medium, High  
+
 
 ---
 
@@ -66,6 +72,7 @@ Income_Group → Low, Medium, High
 - Total Interest: 8M
 - Income: 588M
 - CSS: 3.19
+
 
 ### Charts
 - Revenue by Week → Trend analysis
@@ -94,12 +101,14 @@ Income_Group → Low, Medium, High
 - Transaction Amount: 46M
 - Transaction Volume: 667K
 
+
 ### Charts
 - Card Category Table → Performance comparison
 - Revenue by Category → Contribution
 - QTR Chart → Trend comparison
 - Expenditure Type → Spending behavior
 - Customer Job → Target segmentation
+
 
 ### Slicers
 - Income Group
