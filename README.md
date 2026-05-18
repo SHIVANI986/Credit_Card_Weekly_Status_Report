@@ -172,5 +172,5 @@ This project demonstrates Power BI dashboard development, DAX calculations, and 
 
 ---
 
-⭐ If you like this project, give it a star on GitHub!
+If you like this project, give it a star on GitHub!
 
