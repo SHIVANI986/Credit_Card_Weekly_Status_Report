@@ -59,17 +59,7 @@ Income_Group → Low, Medium, High
 
 ---
 
-<img width="993" height="40" alt="Total_Revenue_Calculated_Column_of_Credit_Card_Screenshots_5" src="https://github.com/user-attachments/assets/8f71315b-6244-4dbf-be30-fc5db3583426" />
-<img width="562" height="42" alt="Week_Num_2_Calculated_Column_Credit_Card_Screenshot_6" src="https://github.com/user-attachments/assets/b8f2d713-2575-4400-9275-c84bd06b3f99" />
-<img width="662" height="92" alt="Previous_Week_Revenue_Calculated_Measure_Credit_Card_Sreenshot_4" src="https://github.com/user-attachments/assets/7649f318-6d38-4db7-b652-447fd770dbad" />
-<img width="625" height="117" alt="Current_Week_Revenue_Calculated_Measure_Screenshot_3" src="https://github.com/user-attachments/assets/549be49f-54ce-4814-a81d-87475969ec97" />
-<img width="942" height="38" alt="WOW_Revenue_Calculated_Measure_CreditCard_Screenshot_7" src="https://github.com/user-attachments/assets/398cbaf8-a824-45b4-832e-9d9c728808df" />
-<img width="785" height="200" alt="Age_Group_Calculated_Column_Customer_Screenshot_8" src="https://github.com/user-attachments/assets/8c68eeea-89db-4231-8ac7-820ebbdb184e" />
-<img width="698" height="147" alt="Income_Group_Calculated_Column_Customer_Screenshot_9" src="https://github.com/user-attachments/assets/e26d8f03-1a23-4ec1-a1ba-1f009cfbbb47" />
-
-
-
-## Dashboard 1: Customer Report
+# Dashboard 1: Customer Report
 
 ### KPIs
 - Revenue: 57M
